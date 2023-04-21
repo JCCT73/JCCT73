@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JCCT73
-- 👀 I’m interested in Climate Change, Empowerment, Data science & powerty, Smart cities, Traveling for the world
+- 👀 I’m interested in Climate Change, Empowerment, Data science & poverty, Smart cities, Traveling for the world
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Office (data Governace)
 - 📫 How to reach me as student at THE BRIDGE  Digital Talent Accelerator in Madrid
